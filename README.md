@@ -1,1 +1,6 @@
-# Informational-Portal
+# Информационный портал о кандидатах и их программе
+
+## <a id="contacts">Контакты</a>
+
+- Имя и Фамилия: Артур Кузнецов
+- Telegram: [@i_am_dak0ta](https://t.me/i_am_dak0ta)
